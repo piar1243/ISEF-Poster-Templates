@@ -1,1 +1,3 @@
-Here reside my amazing (and very colorful (and very epic (if you didn't see already (jk)))) poster templates from my past ISEF projects. Feel free to use these templates and modify them for your projects!
+NOTE: ISEF display and safety poster dimensions have changed, resulting in a lower maximum poster height (<72in). If using these templates, please remember reduce the maximum height to the regulation standard.
+
+Here are the poster templates I created for my past ISEF projects. Feel free to use these templates and modify them for your projects!
